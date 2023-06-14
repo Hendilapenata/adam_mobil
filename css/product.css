@@ -1,0 +1,9 @@
+.product-container{
+    display: flex;
+    grid-template-columns: repeat(4, 1fr);
+    height: auto;
+    grid-row-gap: 40px;
+}
+/* .product-short-des{
+    display: flex;
+} */
